@@ -1,0 +1,10 @@
+include ':aidlmukewangtest'
+include ':communication'
+include ':text2'
+include ':learningaidlservice'
+include ':learningaidlbind'
+include ':aidltest'
+include ':csdn'
+include ':aidl3'
+include ':app'
+rootProject.name = "ExampleAIDL"
